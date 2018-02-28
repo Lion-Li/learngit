@@ -1,2 +1,2 @@
 print('hello world')
-print('I wanna rush')
+print('I wanna Fly')
